@@ -13,11 +13,12 @@ Parent repository for CSCI 1423 Fall 2023
 3. Add the following usernames: KEdwards25, PSanthosh45, ginarivera93, dgardner-twu
 
 ## Cloning your respository to command line (Windows)
-1. Open Ubuntu or Terminal. Do not log into your SSH.
-2. Under the Code tab of your repository, click on the green "<> Code" button
-3. Copy the HTML link
-4. In your Ubuntu/Terminal, type "git clone " and paste the HTML link and enter
-5. Enter your GitHub credentials
+1. Open Ubuntu or Terminal.
+2. #### Do NOT log into your SSH.
+3. Under the Code tab of your repository, click on the green "<> Code" button
+4. Copy the HTML link
+5. In your Ubuntu/Terminal, type "git clone " and paste the HTML link and enter
+6. Enter your GitHub credentials
 
 ## Cloning your respository to command line (Mac, iOS)
 1. Make a Personal Access Token

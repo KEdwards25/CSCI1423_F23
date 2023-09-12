@@ -5,7 +5,7 @@ Parent repository for CSCI 1423 Fall 2023
 1. Click "Use this template"
 2. Click "Create a new repository"
 3. Name your repository "CSCI1423"
-4. Make sure your respository is PRIVATE and create repository
+4. Make sure your respository is **PRIVATE** and create repository
 
 ## Sharing your repository
 1. Go to settings and click on "Collaborators"
@@ -13,8 +13,7 @@ Parent repository for CSCI 1423 Fall 2023
 3. Add the following usernames: KEdwards25, PSanthosh45, ginarivera93, dgardner-twu
 
 ## Cloning your respository to command line (Windows)
-1. Open Ubuntu or Terminal.
-2. #### Do NOT log into your SSH.
+1. Open Ubuntu or Terminal. **Do NOT log into your SSH.**
 3. Under the Code tab of your repository, click on the green "<> Code" button
 4. Copy the HTML link
 5. In your Ubuntu/Terminal, type "git clone " and paste the HTML link and enter
